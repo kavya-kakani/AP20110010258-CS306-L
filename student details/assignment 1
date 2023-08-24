@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Details</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .student-info {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Student Details</h1>
+    <div class="student-info">
+        <h2>Student Name</h2>
+        <p><strong>Name:</strong> John Doe</p>
+        <p><strong>Age:</strong> 20</p>
+        <p><strong>Major:</strong> Computer Science</p>
+        <p><strong>Grade:</strong> A</p>
+    </div>
+
+    <div class="student-info">
+        <h2>Student Name</h2>
+        <p><strong>Name:</strong> Jane Smith</p>
+        <p><strong>Age:</strong> 19</p>
+        <p><strong>Major:</strong> Biology</p>
+        <p><strong>Grade:</strong> B+</p>
+    </div>
+</body>
+</html>
